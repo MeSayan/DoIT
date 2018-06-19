@@ -2,7 +2,7 @@
 <nav class="navbar navbar-inverse">
             <div class="container-fluid">
                 <div class="navbar-header">
-                    <a class="navbar-brand" href="/SpringMVC/index.html">DoIt</a>
+                    <a class="navbar-brand" href="/DoIt/">DoIt</a>
                 </div>
                 <div class="collapse navbar-collapse" id="myNavbar">
                     <ul class="nav navbar-nav navbar-right">
